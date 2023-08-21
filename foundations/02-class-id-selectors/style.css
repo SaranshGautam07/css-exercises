@@ -1,0 +1,20 @@
+#no2{
+    color : blue;
+    font-size: 36px;
+    font-weight: 700;
+}
+
+#no4{
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.subheading {
+    background-color: pink;
+    font-family: 'Verdana', 'DejaVu Sans', sans-serif;
+}
+
+.special-font{
+    font-size: 24px;
+}
